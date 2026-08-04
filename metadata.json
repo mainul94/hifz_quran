@@ -1,0 +1,6 @@
+{
+  "name": "Hifz Quran",
+  "description": "Holy Quran memorization app with audio tracking, reciter selection, spaced repetition, speech analysis AI, Tajweed chatbot, and voice notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
